@@ -94,15 +94,8 @@
 
 <br>
 
-<div align="center">
-
-### 💫 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=Kalika-Jay&label=Profile%20views&color=0e75b6&style=flat" alt="Kalika-Jay" />
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
