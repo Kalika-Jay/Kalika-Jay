@@ -22,19 +22,20 @@
 
 ## 💻 What I Love Working With
 
-<div align="center">
+<div align="left">
 
-| 🌐 **Full-Stack Development** | 🐍 **Python & Automation** | 🤖 **Machine Learning** | 🌟 **Open Source** |
-|:---:|:---:|:---:|:---:|
-| React, Node.js<br>Express, MongoDB | Scripting & Automation<br>Data Analysis | AI & Data-Driven<br>Problem Solving | Collaboration &<br>Continuous Learning |
+🌐 **Full-Stack Development** → *React, Node.js, Express, MongoDB*  
+🐍 **Python & Automation** → *Scripting, automation, and data analysis*  
+🤖 **Machine Learning** → *AI and data-driven problem solving*  
+🌟 **Open Source** → *Collaboration and continuous learning*
 
 </div>
-
 <br>
+
 
 ## 🎯 Currently
 
-<div align="center">
+<div align="left">
 
 🎓 **Pursuing Software Engineering Degree**  
 🛠️ **Building Personal Projects**  
@@ -52,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,expressjs" />
 
 ### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
@@ -64,7 +65,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalika-Jay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalika-Jay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" alt="stats graph"  />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalika-Jay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
