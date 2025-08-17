@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs" />
 
 ### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode" />
 
 </div>
 
