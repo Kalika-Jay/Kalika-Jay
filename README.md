@@ -62,20 +62,6 @@
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalika-Jay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" alt="stats graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalika-Jay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalika-Jay&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-
 ## 🌟 Let's Connect!
 
 <div align="center">
